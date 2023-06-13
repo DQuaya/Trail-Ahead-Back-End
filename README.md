@@ -1,6 +1,6 @@
 # Trail Ahead API
 
-This is a companion API to the [Trail Ahead](https://github.com/DQuaya/Trail-Ahead-Front-End) hiking application. It is built with [Express.js](https://expressjs.com/) and uses [Knex.js](http://knexjs.org/) as a query builder and [Bookshelf](https://bookshelfjs.org/) as an ORM to access a PostgreSQL database.
+This is a companion API to the [Trail Ahead](https://github.com/DQuaya/Trail-Ahead-Front-End) hiking application. It is built with [Express.js](https://expressjs.com/) and uses [Knex.js](http://knexjs.org/) as a query builder and [Bookshelf](https://bookshelfjs.org/) as an ORM to access a PostgreSQL database.kb,kb
 
 ## Features
 
